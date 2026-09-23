@@ -1,0 +1,12 @@
+{
+  "name": "cc-notification",
+  "description": "Windows desktop notifications for Claude Code via PowerShell toast notifications",
+  "author": {
+    "name": "kmio11",
+    "url": "https://github.com/kmio11"
+  },
+  "homepage": "https://github.com/kmio11/cc-notification",
+  "repository": "https://github.com/kmio11/cc-notification",
+  "license": "MIT",
+  "keywords": ["notifications", "windows", "toast", "powershell", "hooks"]
+}

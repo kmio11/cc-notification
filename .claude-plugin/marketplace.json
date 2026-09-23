@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cc-notification",
+  "description": "Windows desktop notifications for Claude Code events",
+  "owner": {
+    "name": "devli"
+  },
+  "plugins": [
+    {
+      "name": "cc-notification",
+      "description": "Windows desktop notifications for Claude Code via PowerShell toast notifications",
+      "version": "1.0.0",
+      "author": {
+        "name": "kmio11",
+        "url": "https://github.com/kmio11"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
